@@ -8,4 +8,5 @@ Emacs の補完機能で \*Completions\* バッファに補完候補が表示さ
 
 くれぐれも本気にしないでください.
 
-[ECF v1.0 日本語](ECF-1.0-ja.md)
+- [ECF v1.0 日本語](ECF-1.0-ja.md)
+- [Edebug をインストゥルメントした関数の一覧を表示](my/edebug.el)

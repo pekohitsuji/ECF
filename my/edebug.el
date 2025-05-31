@@ -1,0 +1,1 @@
+/home/mogeba/.emacs.d/my/edebug.el
