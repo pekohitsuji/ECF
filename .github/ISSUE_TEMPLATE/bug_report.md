@@ -1,43 +1,48 @@
 ---
-name: バグ報告
-about: バグを報告して問題の解決に役立ててもらう
-title: "[BUG] "
-labels: bug
-assignees: ''
-
+name: バグ報告 / Bug report
+about: バグを報告したい / Report a problem or unexpected behavior.
+title: "[Bug] "
+labels: [bug]
+assignees: []
 ---
 
-## 概要
+## 概要 / Summary
 
-どのようなバグが発生していますか？簡潔に記述してください。
+どんなバグが発生していますか？
+/ What kind of bug occurred?
 
-## 再現手順
+## 再現手順 / Steps to reproduce
 
-バグを再現するための手順を可能な限り具体的に書いてください。
+バグを再現するための手順を具体的に教えてください
+/ Provide detailed steps to reproduce the bug.
 
-1. Go to '...'
-2. Click on '...'
-3. Scroll down to '...'
-4. See error
+1. '...' に移動 / Go to '...'
+2. '...' をクリック / Click on '...'
+3. '...' までスクロール / Scroll down to '...'
+4. エラーを確認 / See error
 
-## 期待される動作
+## 期待される動作 / Expected behavior
 
-本来どう動作すべきだったかを書いてください。
+本来どう動作すべきだったかを書いてください
+/ Describe what you expected to happen.
 
-## 実際の動作
+## 実際の動作 / Actual behavior
 
-実際にはどうなってしまったのかを記述してください。
+実際には どうなってしまったかを書いてください
+/ Describe what actually happened.
 
-## スクリーンショット（あれば）
+## スクリーンショット (任意) / Screenshots (Optional)
 
-視覚的に分かるような情報があれば添付してください。
+視覚的に分かる情報があれば添付してください
+/ Attach any visual information that may help.
 
-## 環境情報
+## 環境情報 / Environment information
 
-- OS: [例: Windows 11, macOS Sonoma, Ubuntu 22.04]
-- ブラウザ: [例: Chrome 123, Firefox 120]
-- 使用バージョン: [アプリやライブラリのバージョン]
+- Repository Version:
+- Browser Version: (e.g. Google Chrome 136.0, Firefox 139.0)
+- OS Version: (e.g. Windows 11, macOS Sonoma, Ubuntu 22.04)
 
-## 備考（任意）
+## 備考 (任意) / Additional notes (Optional)
 
-補足情報などあれば記述してください。
+補足情報があれば教えてください
+/ Provide any additional information if available.

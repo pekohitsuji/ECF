@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links: []
+issue_templates:
+  - name: バグ報告 Bug report
+    description: バグを報告したい / Report a problem or unexpected behavior.
+    labels: [bug]
+    file: bug_report.md
+
+  - name: 機能追加の提案 Feature request
+    description: 機能の追加を提案したい / Suggest a new feature or enhancement.
+    labels: [enhancement]
+    file: feature_request.md
+
+  - name: 質問・使い方に関する問い合わせ Question or how-to
+    description: このリポジトリの使い方や挙動について質問したい / Ask about how to use this repository or clarify its behavior.
+    labels: [question]
+    file: question.md
