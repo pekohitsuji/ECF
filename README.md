@@ -5,6 +5,3 @@
 
 # ECF 用に作った関数など
 - [ecf.el](ecf.el)
-
-# Edebug で使用している関数など
-- [my/edebug.el](my/edebug.el)
